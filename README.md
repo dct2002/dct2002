@@ -1,4 +1,3 @@
-## Hi there 👋
 ![snake gif](https://github.com/dct2002/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg)
 <!--
 **dct2002/dct2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
