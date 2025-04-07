@@ -1,5 +1,5 @@
 ## Hi there 👋
-![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/dct2002/snk/output/github-contribution-grid-snake-dark.svg)
 <!--
 **dct2002/dct2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
